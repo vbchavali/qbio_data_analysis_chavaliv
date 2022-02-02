@@ -89,6 +89,7 @@ boxplot(iris$Sepal.Width ~ iris$csw)
 iris = iris[,-6]
 pairs(iris)
 ggpairs(iris)
+## The versicolor and virginica are the most similar. 
 
 
 #exercise 3.1
